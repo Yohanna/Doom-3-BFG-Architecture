@@ -3,37 +3,46 @@ Author: Kainoa Lloyd
 CISC 282
 */
 
-#info0, #info1, #info2, #info3 {
-	visibility: hidden;
+#info0,
+#info1,
+#info2,
+#info3 {
+    visibility: hidden;
 }
-p{
-	background-color = white;
+/*p{
+   background-color = white;
+
 }
+*/
+
 body {
     background-image: url("doom3.jpg");
-	background-size: 100% 150%;
+    background-size: 100% 150%;
 }
-img.hovering{
-	float: left;
-	margin-right: 1em;
+img.hovering {
+    float: left;
+    margin-right: 1em;
 }
 /*div.p {
-	background-color: #ffffff;
+   background-color: #ffffff;
     width: 450px;
     padding: 25px;
     margin: 25px;
-	opacity = 0.2;
+   opacity = 0.2;
 }*/
+
 div {
-	background-color: #ffffff;
+    background-color: #ffffff;
     width: 450px;
     padding: 25px;
     margin: 25px;
-	opacity: 0.6;
-	-moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
-	-webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
-	box-shadow: 1px 2px 3px rgba(0,0,0,.5);
-	border: 2px solid;
+    opacity: 0.6;
+    -moz-box-shadow: 1px 2px 3px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 1px 2px 3px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, .5);
+    border: 2px solid;
+
+
     /*If you wanna to fill the screen.*/
     /*width: 100%; */
     position: center;
@@ -41,10 +50,10 @@ div {
     text-align: justify;
 }
 #header1 {
-	font-size: 2em;
-	background-color:#ffffff;
-	opacity: 0.6;
-	text-align: center;
-	border: 2px solid;
+    font-size: 2em;
+    background-color: #ffffff;
+    opacity: 0.6;
+    text-align: center;
+    border: 2px solid;
     border-radius: 25px;
 }
