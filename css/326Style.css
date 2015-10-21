@@ -16,7 +16,7 @@ CISC 282
 */
 
 body {
-    background-image: url("doom3.jpg");
+    background-image: url("../pics/doom3.jpg");
     background-size: 100% 150%;
 }
 img.hovering {
