@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Doom 3 BFG Architecture
+tagline:          '' # Text to title on browser tab
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://yohanna.github.io/Doom-3-BFG-Architecture/
+baseurl:          /
+
+author:
+  name:           'Yohanna Gadelrab'
+  url:            https://github.com/Yohanna
+
+
+# paginate:         5 #  the maximum number of Posts you’d like to be displayed per-page in the generated site.
+
+# Custom vars
+github:
+  repo:           https://github.com/Yohanna/Doom-3-BFG-Architecture
