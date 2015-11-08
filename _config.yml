@@ -19,4 +19,6 @@ author:
 
 # Custom vars
 github:
-  repo:           https://github.com/Yohanna/Doom-3-BFG-Architecture
+  repo:           https://github.com/Yohanna/Doom-3-BFG-Architecture/
+  branch:         tree/gh-pages/
+
