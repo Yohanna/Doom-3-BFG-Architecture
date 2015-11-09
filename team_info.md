@@ -3,6 +3,9 @@ layout: page
 title: Team Information
 ---
 
+# Team Basement Gurus
+
+
 ## Team Members
 * Isaac Chan
 * Daniel Elmer
