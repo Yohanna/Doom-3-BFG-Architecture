@@ -11,6 +11,6 @@ title: Assignments
 
 ## Concrete Architecture
 
-* ###[Concrete Architecture Presentation]({{ site.github.repo }}{{ site.github.branch }}Assignements/A2/Basement-Gurus-DOOM-3-BFG-Concrete-Architecture.pdf)
+* ###[Concrete Architecture Presentation]({{ site.github.repo }}{{ site.github.branch }}Assignements/A2/DOOM-3-BFG-Concrete-Architecture.pdf)
 
 * ###[Concrete Architecture Report]()
