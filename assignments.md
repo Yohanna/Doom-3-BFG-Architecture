@@ -17,5 +17,5 @@ title: Assignments
 
 ## Enhancement Proposal: H.U.D Map
 
-* ###[HUD Map Report]({{ site.github.repo }}{{ site.github.branch }}Assignements/A3/Basement-Gurus-DOOM-3-BFG-Enhancement-Proposal-Presentation.pdf)
+* ###[Enhancement Proposal Presentation]({{ site.github.repo }}{{ site.github.branch }}Assignements/A3/Basement-Gurus-DOOM-3-BFG-Enhancement-Proposal-Presentation.pdf)
 
