@@ -14,3 +14,8 @@ title: Assignments
 * ###[Concrete Architecture Presentation]({{ site.github.repo }}{{ site.github.branch }}Assignements/A2/Basement-Gurus-Doom-3-BFG-Concrete-Architecture.pdf)
 
 * ###[Concrete Architecture Report]({{ site.github.repo }}{{ site.github.branch }}Assignements/A2/Basement-Gurus-Doom-3-BFG-Concrete-Architecture-Report.pdf)
+
+## New Feature: H.U.D Map
+
+* ###[HUD Map Report]({{ site.github.repo }}{{ site.github.branch }}Assignements/A3/Basement-Gurus-DOOM-3-BFG-HUD-Map-Presentation.pdf)
+
