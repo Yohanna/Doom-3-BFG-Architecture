@@ -19,4 +19,4 @@ title: Assignments
 
 * ### [Enhancement Proposal Presentation]({{ site.github.repo }}{{ site.github.branch }}Assignments/A3/Basement-Gurus-Doom-3-BFG-Enhancement-Proposal-Presentation.pdf)
 
-* ### [Enhancement Proposal Report]()
+* ### [Enhancement Proposal Report]({{ site.github.repo }}{{ site.github.branch }}Assignments/A3/Basement-Gurus-Doom-3-BFG-Enhancement-Proposal-Report.pdf)
